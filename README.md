@@ -4,7 +4,7 @@
 <img
       align="right"
       width="500px"
-      src="[https://i.ibb.co/w6NZjNh/Banner.png](https://c.tenor.com/2nKSTDDekOgAAAAC/tenor.gif)"
+      src="https://i.ibb.co/w6NZjNh/Banner.png](https://c.tenor.com/2nKSTDDekOgAAAAC/tenor.gif"
       alt="coding"
     />
 <h3 align="center">A passionate frontend developer form Bangladesh.</h3>
