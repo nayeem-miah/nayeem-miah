@@ -1,4 +1,4 @@
-|[logo](https://github.com/nayeem-miah/nayeem-miah/blob/main/Banner.png)
+![logo](https://github.com/nayeem-miah/nayeem-miah/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Nayeem</h1>
 
 <img
