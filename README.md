@@ -1,12 +1,7 @@
 ![logo](https://github.com/nayeem-miah/nayeem-miah/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Nayeem</h1>
 
-<img
-      align="right"
-      width="500px"
-      src="https://i.ibb.co/w6NZjNh/Banner.png](https://c.tenor.com/2nKSTDDekOgAAAAC/tenor.gif"
-      alt="coding"
-    />
+
 <h3 align="center">A passionate frontend developer form Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayeem-miah&label=Profile%20views&color=0e75b6&style=flat" alt="nayeem-miah" /> </p>
