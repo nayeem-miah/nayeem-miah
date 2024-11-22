@@ -3,13 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nayeem</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh.</h3>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nayeem-miah" alt="trophy" />
-  </a>
-</div>
 
----
 
 <h2 align="left">About Me:</h2>
 <div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 15px; background-color: #f9f9f9;">
@@ -24,7 +18,7 @@
 ---
 
 <h2 align="left">Connect with me:</h2>
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/nayeem-islam-734719307" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
