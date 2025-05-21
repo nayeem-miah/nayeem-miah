@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Nayeem</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh.</h3>
 
-
-
 <h2 align="left">About Me:</h2>
 <div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 15px; background-color: #f9f9f9;">
   <p align="left">
@@ -30,21 +28,22 @@
 <br/>
 
 ---
+
 <h2 align="">🛠️ Technology and Tools</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,express,mongodb,html,css,tailwind,nodejs,firebase,github,illustrator,vscode,git,daisyui,typescript,java,python" 
+  <!-- Default skillicons icons -->
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=react,js,express,mongodb,html,css,tailwind,nodejs,firebase,github,illustrator,next,redux,mongoose,vscode,git,daisyui,typescript,java,python" 
          alt="technology and tools icons" 
          title="React, JavaScript, Express, MongoDB, HTML, CSS, Tailwind, Node.js, Firebase, GitHub, Illustrator, VSCode, Git, DaisyUI, TypeScript, Java, Python" />
   </a>
+
 </p>
 
 <p align="center">
   <i>Hover over the icons for a subtle animation!</i>
 </p>
-
-
 
 ---
 
