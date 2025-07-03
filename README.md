@@ -6,7 +6,7 @@
 <h2 align="left">About Me:</h2>
 <div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 15px; background-color: #f9f9f9;">
   <p align="left">
-    I'm a Junior Frontend Developer with a passion for crafting responsive web applications. Proficient in HTML, CSS, JavaScript, and React.js, I also work with Node.js, Express.js, MongoDB, and TypeScript for backend development.
+   👋 Hi there! I'm a passionate MERN Stack Developer with a focus on building high-performance, responsive, and scalable web applications. I love turning complex problems into elegant solutions using MongoDB, Express.js, React.js, and Node.js. With a strong eye for UI/UX and clean code, I aim to deliver seamless user experiences and efficient backend systems.
   </p>
   <p align="left">
     I thrive on solving problems and continuously improve my skills through hands-on projects. Currently working on urbanDrive, a car rental service, I aim to create impactful projects that enhance user experiences. Let’s connect and share ideas!
