@@ -1,76 +1,64 @@
-![logo](https://github.com/nayeem-miah/nayeem-miah/blob/main/Banner.png)
-
-<h1 align="center">Hi 👋, I'm Nayeem</h1>
-<h3 align="center">A passionate Frontend Developer from Bangladesh.</h3>
-
-<h2 align="left">About Me:</h2>
-<div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 15px; background-color: #f9f9f9;">
-  <p align="left">
-   👋 Hi there! I'm a passionate MERN Stack Developer with a focus on building high-performance, responsive, and scalable web applications. I love turning complex problems into elegant solutions using MongoDB, Express.js, React.js, and Node.js. With a strong eye for UI/UX and clean code, I aim to deliver seamless user experiences and efficient backend systems.
-  </p>
-  <p align="left">
-    I thrive on solving problems and continuously improve my skills through hands-on projects. Currently working on urbanDrive, a car rental service, I aim to create impactful projects that enhance user experiences. Let’s connect and share ideas!
-  </p>
-</div>
-
----
-
-<h2 align="left">Connect with me:</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/nayeem-islam-734719307" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100042968569904" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
-  </a>
-</p>
-
-<br/>
-
----
-
-<h2 align="">🛠️ Technology and Tools</h2>
-
-<p align="center">
-  <!-- Default skillicons icons -->
-  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=react,js,express,mongodb,html,css,tailwind,nodejs,firebase,github,illustrator,next,redux,mongoose,vscode,git,daisyui,typescript,java,python" 
-         alt="technology and tools icons" 
-         title="React, JavaScript, Express, MongoDB, HTML, CSS, Tailwind, Node.js, Firebase, GitHub, Illustrator, VSCode, Git, DaisyUI, TypeScript, Java, Python" />
-  </a>
-
-</p>
-
-<p align="center">
-  <i>Hover over the icons for a subtle animation!</i>
-</p>
-
----
-
-<h2 align="left">📊 GitHub Stats:</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayeem-miah&show_icons=true&locale=en&theme=radical" alt="nayeem-miah" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayeem-miah&theme=radical" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayeem-miah&show_icons=true&locale=en&layout=compact&theme=radical" alt="most-used-languages" />
-</p>
-
----
-
-<h2 align="left">🌟 Total Contributions</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayeem-miah&theme=dark" alt="streak" />
-</p>
-
----
-
-<h4 align="center">Thanks for visiting my profile! 😊</h4>
+![banner](https://github.com/nayeem-miah/nayeem-miah/blob/main/Banner.png)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT39D6fS1WwzO3zIHG/giphy.gif" alt="animated" width="500"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!+🚀;Let%27s+connect+and+collaborate!+💻" alt="Typing SVG" />
 </div>
+
+<h1 align="center">Hi 👋, I'm MD Nayeem Miah</h1>
+<h3 align="center">🚀 MERN Stack Developer | Frontend Specialist | Backend Explorer</h3>
+
+<p align="center">
+  <a href="https://nayeem-miah.vercel.app/" target="_blank">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/nayeem-islam-734719307" target="_blank">🔗 LinkedIn</a> •
+  <a href="https://github.com/nayeem-miah" target="_blank">💻 GitHub</a>
+</p>
+
+---
+
+### 🚀 About Me
+
+Creative and committed MERN Stack Developer with a strong eye for design and performance. I build responsive, accessible, and interactive user interfaces using modern technologies. Always eager to learn and collaborate on impactful projects.
+
+- 🌍 Live Portfolio: [nayeem-miah.vercel.app](https://nayeem-miah.vercel.app/)
+- 📫 Email: [nayeem5113a@gmail.com](mailto:nayeem5113a@gmail.com)
+- 💬 Open to freelance, collaborations, or internships
+
+---
+
+### ⚙️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,firebase,tailwind,daisyui,redux,vscode,git,github,illustrator,java,python" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nayeem-miah&show_icons=true&theme=react&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayeem-miah&theme=react&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem-miah&layout=compact&theme=react&hide_border=true" />
+</p>
+
+---
+
+### 📬 Connect With Me
+
+<p align="center">
+  <a href="mailto:nayeem5113a@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nayeem-islam-734719307" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100042968569904" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
+</p>
+
+---
+
+### 🎉 Thank You!
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT39D6fS1WwzO3zIHG/giphy.gif" alt="Thank you" width="450" />
+</div>
+
+<h4 align="center">Thanks for visiting — Let’s build something amazing together! 🚀</h4>
