@@ -1,4 +1,4 @@
-![banner](https://github.com/nayeem-miah/nayeem-miah/blob/main/Banner.png)
+![banner](https://i.ibb.co.com/fzVJb6bW/Gemini-Generated-Image-ogp7oxogp7oxogp7.png)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!+🚀;Let's+connect+and+build+impactful+applications!+💻" alt="Typing SVG" />
