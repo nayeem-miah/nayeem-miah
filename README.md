@@ -1,4 +1,4 @@
-![banner](https://i.ibb.co.com/fzVJb6bW/Gemini-Generated-Image-ogp7oxogp7oxogp7.png)
+![banner](https://i.ibb.co.com/HTcM1LZs/Gemini-Generated-Image-ogp7oxogp7oxogp7.png)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=800&lines=Backend+Developer+%40+SM+Technology;Building+Scalable+%26+Secure+Solutions;Full+Stack+Engineer+%7C+API+Architect" alt="Typing SVG" />
