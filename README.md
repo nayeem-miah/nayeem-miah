@@ -60,8 +60,8 @@ const nayeem: Developer = {
   location:   "Bangladesh 🇧🇩",
   focus:      ["RESTful APIs", "System Design", "Scalable Architecture"],
   stack: {
-    backend:    ["Node.js", "Express.js", "MongoDB", "PostgreSQL", "Prisma"],
-    frontend:   ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend:    ["Node.js", "Express.js", "nestjs", "MongoDB", "PostgreSQL", "Prisma", "mongoose"],
+    frontend:   ["React", "Next.js", "redux", "TypeScript", "Tailwind CSS"],
     auth:       ["JWT", "bcrypt", "OAuth2"],
     tools:      ["Git", "Postman", "Firebase", "Vercel"],
   },
@@ -145,3 +145,9 @@ const nayeem: Developer = {
   <a href="https://github.com/nayeem-miah" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nayeem-miah/nayeem-miah/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/nayeem-miah/nayeem-miah/output/snake.svg">
+</picture>
