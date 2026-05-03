@@ -80,7 +80,7 @@ const nayeem: Developer = {
 
 ### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,mysql,prisma,mongoose&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,mysql,prisma&theme=dark&perline=7" />
 </p>
 
 ### 🎨 Frontend & UI
@@ -103,10 +103,10 @@ const nayeem: Developer = {
 
 <div align="center">
 
-<a href="https://github.com/nayeem-miah">
+<!-- <a href="https://github.com/nayeem-miah">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayeem-miah&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&title_color=A78BFA&icon_color=7C3AED&text_color=E2E8F0&bg_color=0f0c29" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem-miah&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&title_color=A78BFA&text_color=E2E8F0&bg_color=0f0c29" />
-</a>
+</a> -->
 
 </div>
 
@@ -125,26 +125,6 @@ const nayeem: Developer = {
 </a>
 
 </div>
-
-<!-- ████████████████████████ CONNECT & COLLABORATE ████████████████████████ -->
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-  <p>I'm always open to discussing <b>new projects</b>, <b>creative ideas</b>, or <b>opportunities</b> to be part of your visions.</p>
-
-  <a href="https://nayeem-miah.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/nayeem-islam-734719307" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nayeem5113a@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/nayeem-miah" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 
 
   <picture>
