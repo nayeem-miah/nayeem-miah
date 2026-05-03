@@ -1,74 +1,147 @@
-![banner](https://res.cloudinary.com/dgk8lgdzb/image/upload/q_auto/f_auto/v1775540752/Gemini_Generated_Image_xwelihxwelihxwel_lpoblj.png)
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=800&lines=Backend+Developer+%40+SM+Technology;Building+Scalable+%26+Secure+Solutions;Full+Stack+Engineer+%7C+API+Architect" alt="Typing SVG" />
-</div>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#36BCF7">MD Nayeem Miah</span></h1>
-<h3 align="center">Backend Developer @ SM Technology | Full Stack Engineer | API Architect</h3>
+<!-- ████████████████████████ HEADER SECTION ████████████████████████ -->
 
-<p align="center">
-  <a href="https://nayeem-miah.vercel.app/" target="_blank">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/nayeem-islam-734719307" target="_blank">🔗 LinkedIn</a> •
-  <a href="https://github.com/nayeem-miah" target="_blank">💻 GitHub</a> •
-  <a href="mailto:nayeem5113a@gmail.com">📧 Email</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=MD%20Nayeem%20Miah&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20%7C%20API%20Architect%20%7C%20Full%20Stack%20Engineer&descSize=18&descAlignY=62&animation=fadeIn" />
+
+<!-- ████████████████████████ TYPING ANIMATION ████████████████████████ -->
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=%F0%9F%9A%80+Backend+Developer+%40+SM+Technology;%F0%9F%94%A7+Building+Scalable+%26+Secure+Systems;%F0%9F%8C%90+RESTful+API+%26+Microservices+Architect;%F0%9F%92%A1+Clean+Code+%7C+System+Design+%7C+Performance" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- ████████████████████████ SOCIAL BADGES ████████████████████████ -->
+
+<p>
+  <a href="https://nayeem-miah.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=A78BFA&labelColor=0f0c29" />
+  </a>
+  <a href="https://www.linkedin.com/in/nayeem-islam-734719307" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=A78BFA&labelColor=0f0c29" />
+  </a>
+  <a href="https://github.com/nayeem-miah" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0f0c29" />
+  </a>
+  <a href="mailto:nayeem5113a@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=0f0c29" />
+  </a>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=nayeem-miah&label=PROFILE+VIEWS&color=A78BFA&style=flat-square&labelColor=0f0c29" />
 
-### 💼 Professional Overview
-
-Backend Developer at **SM Technology**, specializing in building robust, scalable server-side applications and RESTful APIs. With expertise spanning the full stack, I architect efficient database solutions, implement secure authentication systems, and optimize application performance. I'm passionate about clean code, system design, and delivering high-quality solutions that drive business value.
+</div>
 
 ---
-### 💻 Quick Start — Run in Your Terminal
+
+<!-- ████████████████████████ QUICK START ████████████████████████ -->
+
+<div align="center">
+
+### ⚡ Quick Start — Meet Me in Your Terminal
 
 ```bash
 npx hello-nayeem
 ```
 
----
-
-### 🛠️ Technology Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,prisma,mongoose,typescript,javascript,react,nextjs,tailwind,redux,firebase,git,github,vscode,postman,html,css,illustrator,java,python" alt="Tech Stack" />
-</p>
-
-**Backend Technologies:**
-`Node.js` `Express.js` `MongoDB` `PostgreSQL` `Prisma` `Mongoose` `JWT` `bcrypt` `RESTful APIs`
-
-**Frontend Technologies:**
-`React` `Next.js` `TypeScript` `Tailwind CSS` `Redux` `shadcn/ui` `DaisyUI` `Framer Motion`
-
-**Tools & Platforms:**
-`Git` `GitHub` `VS Code` `Postman` `Firebase` `Vercel` `npm/yarn/bun` `ESLint` `Prettier`
-
----
-
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayeem-miah&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem-miah&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayeem-miah&theme=react&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nayeem-miah&theme=react&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nayeem-miah&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile Views" />
 </div>
 
-<h4 align="center">⚡ Building the future, one commit at a time</h4>
+---
+
+<!-- ████████████████████████ ABOUT ME ████████████████████████ -->
+
+## 🧠 About Me
+
+```typescript
+const nayeem: Developer = {
+  name:       "MD Nayeem Miah",
+  role:       "Backend Developer @ SM Technology",
+  location:   "Bangladesh 🇧🇩",
+  focus:      ["RESTful APIs", "System Design", "Scalable Architecture"],
+  stack: {
+    backend:    ["Node.js", "Express.js", "MongoDB", "PostgreSQL", "Prisma"],
+    frontend:   ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    auth:       ["JWT", "bcrypt", "OAuth2"],
+    tools:      ["Git", "Postman", "Firebase", "Vercel"],
+  },
+  currentlyLearning: "Microservices & Docker",
+  funFact: "I debug with coffee ☕ and ship with confidence 🚀",
+};
+```
+
+---
+
+<!-- ████████████████████████ SKILLS ████████████████████████ -->
+
+## 🛠️ Technology Arsenal
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,mysql,prisma,mongoose&theme=dark&perline=7" />
+</p>
+
+### 🎨 Frontend & UI
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,redux,html,css&theme=dark&perline=8" />
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,vercel,linux,figma&theme=dark&perline=8" />
+</p>
+
 </div>
+
+---
+
+<!-- ████████████████████████ GITHUB STATS ████████████████████████ -->
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/nayeem-miah">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayeem-miah&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&title_color=A78BFA&icon_color=7C3AED&text_color=E2E8F0&bg_color=0f0c29" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem-miah&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&title_color=A78BFA&text_color=E2E8F0&bg_color=0f0c29" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/nayeem-miah">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nayeem-miah&theme=midnight-purple&hide_border=true&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&background=0f0c29&stroke=302b63&dates=E2E8F0" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/nayeem-miah">
+  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=nayeem-miah&bg_color=0f0c29&color=A78BFA&line=7C3AED&point=ffffff&hide_border=true&area=true&area_color=302b63" />
+</a>
+
+</div>
+
+<!-- ████████████████████████ CONNECT & COLLABORATE ████████████████████████ -->
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+  <p>I'm always open to discussing <b>new projects</b>, <b>creative ideas</b>, or <b>opportunities</b> to be part of your visions.</p>
+
+  <a href="https://nayeem-miah.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/nayeem-islam-734719307" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nayeem5113a@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/nayeem-miah" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
